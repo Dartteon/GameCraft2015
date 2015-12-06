@@ -30,3 +30,7 @@ The theme for this Game Jam is "Twist", which is the main focus of our game: the
 - Kuan Jun Ren (@jrkuan) - Programmer & Level Design
 - Tomomi Hikawa - Lead Artist
 
+### Credits:
+- Kahoot : Background Music
+- Kenney.nl : Some Art
+
