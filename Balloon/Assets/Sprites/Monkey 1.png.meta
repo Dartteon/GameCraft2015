@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 59655062ac179ea4ca6f3d82ae4f165b
+timeCreated: 1449287132
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monkey 1_0
+    21300002: Monkey 1_1
+    21300004: Monkey 1_2
+    21300006: Monkey 1_3
+    21300008: Monkey 1_4
+    21300010: Monkey 1_5
+    21300012: Monkey 1_6
+    21300014: Monkey 1_7
+    21300016: Monkey 1_8
+    21300018: Monkey 1_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Monkey 1_0
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1398
+        width: 618
+        height: 779
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey 1_1
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1619
+        width: 1737
+        height: 641
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey 1_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1082
+        width: 328
+        height: 372
+      alignment: 9
+      pivot: {x: .854059994, y: .793818295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey 1_3
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 827
+        width: 392
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey 1_4
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 986
+        width: 377
+        height: 352
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey 1_5
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 1011
+        width: 757
+        height: 389
+      alignment: 9
+      pivot: {x: .450367212, y: .772197366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey 1_6
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 773
+        width: 408
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey 1_7
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 138
+        width: 366
+        height: 294
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey 1_8
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 84
+        width: 174
+        height: 626
+      alignment: 9
+      pivot: {x: .539260328, y: .920134425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey 1_9
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 84
+        width: 176
+        height: 587
+      alignment: 9
+      pivot: {x: .402965188, y: .913135111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
