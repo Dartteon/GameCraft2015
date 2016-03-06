@@ -11,11 +11,11 @@ public class CameraTrackerScript : MonoBehaviour {
 	void Start () {
 		this.transform.position = new Vector2 (0, 0);
 		player = GameObject.Find ("Player");
-		GameObject rsButton = Instantiate (restartButtonPrefab, new Vector3(11.5f, 7f, 10f), this.transform.rotation) as GameObject;
+		GameObject rsButton = Instantiate (restartButtonPrefab, new Vector3(10f, 7f, 10f), this.transform.rotation) as GameObject;
 		rsButton.gameObject.transform.parent = this.transform;
 		GameObject signs = Instantiate (transformationCuesPrefab) as GameObject;
 		signs.gameObject.transform.parent = this.transform;
-		GameObject hmButton = Instantiate (homeButtonPrefab, new Vector3(13.0f, 7f, 10f), this.transform.rotation) as GameObject;
+		GameObject hmButton = Instantiate (homeButtonPrefab, new Vector3(11.5f, 7f, 10f), this.transform.rotation) as GameObject;
 		hmButton.gameObject.transform.parent = this.transform;
 	}
 
